@@ -36,7 +36,9 @@ RANDOM_ID=$(shuf -i 1000-9999 -n 1)
 NAME="${KING}-${RANDOM_ID}"
 
 LINK="
-توجه فراموش نکنید لیمیت بسته شدن فورک را 240 مین ثبت کنید
+✅ Done ! Successful Create 
+ 
+🌠 Your Config  :
 
 vless://${UUID}@94.130.33.41:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
 
@@ -50,7 +52,8 @@ vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=pac
 
 vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
 
-Dev : @ThoseWhoAreNoLongerAmongUs"
+
+@ThoseWhoAreNoLongerAmongUs"
 echo ""
 echo "================================================"
 echo "  $LINK"

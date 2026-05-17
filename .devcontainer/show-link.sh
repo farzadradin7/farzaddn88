@@ -52,6 +52,10 @@ vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=pac
 
 vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
 
+vless://${UUID}@204.12.196.34:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+
+vless://${UUID}@65.109.34.234:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+
 
 @ThoseWhoAreNoLongerAmongUs"
 echo ""

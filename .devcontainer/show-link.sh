@@ -40,25 +40,25 @@ LINK="
  
 🌠 Your Config  :
 
-vless://${UUID}@94.130.33.41:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@94.130.33.41:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate1
 
-vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate2
 
-vless://${UUID}@142.54.178.211:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@142.54.178.211:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate3
 
-vless://${UUID}@138.201.54.122:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@138.201.54.122:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate4
 
-vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate5
 
-vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate6
 
-vless://${UUID}@204.12.196.34:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@204.12.196.34:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate7
 
-vless://${UUID}@65.109.34.234:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@65.109.34.234:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate8
 
-vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate9
 
-vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#${NAME}
+vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#ِPain_Ultimate10
 
 
 @ThoseWhoAreNoLongerAmongUs"

@@ -43,25 +43,25 @@ LINK="
  
 🌠 Your Config (Created: $TIMESTAMP Tehran Time) :
 
-vless://${UUID}@94.130.33.41:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate1 ($TIMESTAMP)
+vless://${UUID}@94.130.33.41:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#1 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate2 ($TIMESTAMP)
+vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#2 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@142.54.178.211:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate3 ($TIMESTAMP)
+vless://${UUID}@142.54.178.211:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#3 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@138.201.54.122:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate4 ($TIMESTAMP)
+vless://${UUID}@138.201.54.122:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#4 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate5 ($TIMESTAMP)
+vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#5 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate6 ($TIMESTAMP)
+vless://${UUID}@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#6 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@204.12.196.34:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate7 ($TIMESTAMP)
+vless://${UUID}@204.12.196.34:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#7 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@65.109.34.234:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate8 ($TIMESTAMP)
+vless://${UUID}@65.109.34.234:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#8 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#Pain_Ultimate9 ($TIMESTAMP)
+vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#9 ($TIMESTAMP) 4 Hours Active !
 
-vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#ِPain_Ultimate10 ($TIMESTAMP)
+vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=${SNI}&path=%2F#ِ10 ($TIMESTAMP) 4 Hours Active !
 
 
 @ThoseWhoAreNoLongerAmongUs"

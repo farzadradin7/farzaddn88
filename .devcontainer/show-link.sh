@@ -62,11 +62,26 @@ vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=xhttp&mode=pa
 
 
 @ThoseWhoAreNoLongerAmongUs"
+
 echo ""
 echo "================================================"
 echo "  $LINK"
 echo "================================================"
 echo ""
+
+# ذخیره در فایل متنی در GitHub
+OUTPUT_FILE="configs_$(date +%Y%m%d_%H%M%S).txt"
+echo "$LINK" > "$OUTPUT_FILE"
+echo "[g2ray] Config saved to: $OUTPUT_FILE"
+
+# اضافه کردن فایل به Git
+git add "$OUTPUT_FILE" 2>/dev/null
+
+# commit کردن تغییرات
+git commit -m "Add new config - $NAME" 2>/dev/null
+
+# push به مخزن GitHub
+git push origin main 2>/dev/null || git push origin master 2>/dev/null
 
 # SEND TO TELEGRAM
 BOT_TOKEN="7843429722:AAGdb4texe8cErPbQycGsGzK2_4vpZiM0SI"
@@ -75,3 +90,5 @@ CHAT_ID="6920695217"
 curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
   -d chat_id="${CHAT_ID}" \
   --data-urlencode text="$LINK" > /dev/null 2>&1
+
+echo "[g2ray] Also sent to Telegram"
